@@ -109,18 +109,16 @@ oluşturulmuştur.
 ```
 StockPricePrediction/
 │
-├── data/
-│   └── AAPL.csv
-│
 ├── notebooks/
 │   └── StockPrediction.ipynb
+|   └── AAPL.csv
 │
 ├── models/
 │   ├── lstm_model.pth
 │   └── gru_model.pth
 │
 ├── results/
-│   ├── graphs/
+│ 
 │   ├── model_results.csv
 │   └── model_report.txt
 │
