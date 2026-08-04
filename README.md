@@ -1,5 +1,7 @@
 # 📈 Apple Hisse Senedi Fiyat Tahmini (LSTM & GRU) | PyTorch
 
+video linki : https://youtu.be/YcAeBjm34Bc?si=QOvpbUzMGwwkCRKC
+
 ## 📌 Proje Hakkında
 
 Bu proje, Apple Inc. (AAPL) hisse senedi kapanış fiyatlarını geçmiş verilerden yararlanarak tahmin etmek amacıyla geliştirilmiştir. Projede derin öğrenme tabanlı **LSTM (Long Short-Term Memory)** ve **GRU (Gated Recurrent Unit)** modelleri kullanılmıştır.
